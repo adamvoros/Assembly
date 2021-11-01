@@ -1,2 +1,1 @@
-# Ordinary Differential Equations
-# predictor-corrector scheme
+# Ordinary Differential Equations 
